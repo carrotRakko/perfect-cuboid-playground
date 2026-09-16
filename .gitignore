@@ -1,0 +1,5 @@
+# Papers are downloaded by tools/setup-env.sh (copyright: not redistributed here)
+data/papers/
+*.log
+*.out
+scratch/**/*.out
