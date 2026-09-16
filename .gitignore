@@ -3,3 +3,5 @@ data/papers/
 *.log
 *.out
 scratch/**/*.out
+# Third-party data downloaded by the reviewer seats (Peschmann's released CSV/factorisation files, Sage source copies): not redistributed
+scratch/peschmann-review/repo/
